@@ -1,6 +1,6 @@
 <?php
 
-$conn = mysqli_connect("localhost", "root", "1234", "learnp");
+$conn = mysqli_connect("sql6.freesqldatabase.com", "sql6454449", "aGGaK7LYmi", "sql6454449");
 
 
 if(!$conn){
