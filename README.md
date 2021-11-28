@@ -76,8 +76,8 @@ The Live website of this project can be found[here](https://elearn-system.heroku
 Follow these steps
 
 - Install php in your computer.
-  -Install XAMPP in your computer.
-- Download whole repoistory
+- Install XAMPP in your computer.
+- Clone whole repoistory
 
 -Open xampp control panel and start apache and mysql.
 -Open localhost/phpmyadmin.
@@ -99,6 +99,8 @@ The application is deployed to heroku. To deploy it:
 - **HTML,CSS and JavaScript.**: Used for the frontend.
 
 - **php**: Used for the backend.
+
+- **mysql**: Used for databases.
 
 # Acknowledgement
 
